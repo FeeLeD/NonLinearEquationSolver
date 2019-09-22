@@ -1,0 +1,10 @@
+C:\Users\Стасик\source\repos\NonLinearEquationSolver\NonLinearEquationSolver\bin\Debug\NonLinearEquationSolver.exe.config
+C:\Users\Стасик\source\repos\NonLinearEquationSolver\NonLinearEquationSolver\bin\Debug\NonLinearEquationSolver.exe
+C:\Users\Стасик\source\repos\NonLinearEquationSolver\NonLinearEquationSolver\bin\Debug\NonLinearEquationSolver.pdb
+C:\Users\Стасик\source\repos\NonLinearEquationSolver\NonLinearEquationSolver\obj\Debug\NonLinearEquationSolver.csprojAssemblyReference.cache
+C:\Users\Стасик\source\repos\NonLinearEquationSolver\NonLinearEquationSolver\obj\Debug\NonLinearEquationSolver.Main.resources
+C:\Users\Стасик\source\repos\NonLinearEquationSolver\NonLinearEquationSolver\obj\Debug\NonLinearEquationSolver.Properties.Resources.resources
+C:\Users\Стасик\source\repos\NonLinearEquationSolver\NonLinearEquationSolver\obj\Debug\NonLinearEquationSolver.csproj.GenerateResource.cache
+C:\Users\Стасик\source\repos\NonLinearEquationSolver\NonLinearEquationSolver\obj\Debug\NonLinearEquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\Стасик\source\repos\NonLinearEquationSolver\NonLinearEquationSolver\obj\Debug\NonLinearEquationSolver.exe
+C:\Users\Стасик\source\repos\NonLinearEquationSolver\NonLinearEquationSolver\obj\Debug\NonLinearEquationSolver.pdb
